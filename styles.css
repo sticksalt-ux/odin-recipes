@@ -1,0 +1,12 @@
+h1 {
+    background: rgb(160, 160, 160);
+    color: rgb(255, 157, 44);
+    text-align: center;
+    outline-style: auto;
+    outline-color: rgb(68, 68, 68);
+}
+
+.para {
+    font-size: 30px;
+    font-family: serif;
+}
